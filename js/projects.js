@@ -15,8 +15,8 @@ const projects = [
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://github.com/web-rest-api/tp1-site",
-			"https://web-rest-api.github.io/tp1-site/",
+			"https://github.com/davus01/landing-page",
+			"https://thereisnoplanetb.glitch.me/",
 		],
 	},
 	{
@@ -46,7 +46,7 @@ const projects = [
 		technologies: ["NodeJs", "Express"],
 		links: [
 			"https://replit.com/@6thomasdavid/mainpy#main.py",
-			"https://node-expess.martinpedraza.repl.co/",
+			"",
 		],
 	},
 ]
